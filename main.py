@@ -184,7 +184,7 @@ async def khan_login(app, message):
         with open(f"{batch_name}.txt", 'a') as f:
             f.write(f"{full}")
         
-        c_txt = f"**App Name: Khan-Sir\nBatch Name:** `{batch_name}`"
+        c_txt = f"**App Name: Khan Global Studies (KGS)\nBatch Name:** `{batch_name}`"
         await message.reply_document(document=f"{batch_name}.txt", caption=c_txt)
         os.remove(f"{batch_name}.txt")
 
