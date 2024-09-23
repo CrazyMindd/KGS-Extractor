@@ -52,7 +52,7 @@ print(listen.__file__)
 async def account_lstarn(bot: Client, m: Message):
     if not one(m.from_user.id):
         return await m.reply_photo(
-            photo="https://graph.org/file/aa0147b4d5a8fead84411.jpg",
+            photo="https://graph.org/file/9d91fcf92474618cf49ae.jpg",
             caption=paid_text,
             reply_markup=keyboard,
         )
