@@ -1,4 +1,4 @@
-from CrazyMind.Config import *
+from CrazyMind.CrazyConfig import *
 
 
 def one(user_id):
