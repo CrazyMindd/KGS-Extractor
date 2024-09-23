@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
+    "repository": "https://github.com/CrazyMindd/KGS-Extractor",
     "success_url": "https://t.me/AdityaDiscus",
     "stack": "container",
     "env": {
