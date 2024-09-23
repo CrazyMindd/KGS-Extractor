@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/CrazyMindd/KGS-Extractor",
-    "success_url": "https://t.me/AdityaDiscus",
+    "success_url": "https://t.me/crazy_mind_official_group",
     "stack": "container",
     "env": {
         "API_ID": {
