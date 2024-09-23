@@ -1,4 +1,4 @@
-# Extractor Bot
+# KGS Extractor Bot
 # working repo
 # made by CrazyMindd
 
