@@ -84,7 +84,7 @@ async def cancel(_, m):
 async def restart_handler(_, m):
     if not two(m.from_user.id):
         return await m.reply_text(
-            "✨ Hello Sir,\n\nYou Don't Have Right To Access This Contact Owner",
+            "✨ Hello Sir,\n\nYou Don't Have Right To Access This Contact Owner:- @Crazy_Mind_Official",
         )
     await m.reply_text("➭ 𝗕𝗼𝘁 𝗜𝘀 𝗕𝗲𝗶𝗻𝗴 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴. 𝗣𝗹𝗲𝗮𝘀𝗲 𝗞𝗲𝗲𝗽 𝗣𝗮𝘁𝗶𝗲𝗻𝗰𝗲", True)
     os.execl(sys.executable, sys.executable, *sys.argv)
