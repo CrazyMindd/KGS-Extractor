@@ -15,7 +15,7 @@ from pyrogram.errors import FloodWait
 from pyrogram.types import Message
 from pyromod import listen
 
-import online.helpers.vid as helper
+import helpers.vid as helper
 from online.Config import *
 from online.helpers.button import keyboard
 from online.helpers.sudoers import *
