@@ -4,6 +4,9 @@
 
 ## Don't use my repo without star
 
+### edit api_id, api_hash, bot_token, auth_users, sudo_users
+, owner_id
+
 
 <p align="center">
   <a href="https://github.com/CrazyMindd/readme-typing-svg">
