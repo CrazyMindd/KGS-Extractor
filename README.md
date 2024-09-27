@@ -2,9 +2,7 @@
 # working repo
 # made by CrazyMindd
 
-<a href="https://heroku.com/deploy?template=https://github.com/CrazyMindd/KGS-Extractor.git">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-</a>
+
 
 
 
@@ -35,6 +33,12 @@ CrazyMindd/CrazyMindd is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+
+## Deploy to heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/CrazyMindd/KGS-Extractor.git">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+</a>
 
 
 
