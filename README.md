@@ -2,8 +2,7 @@
 # working repo
 # made by CrazyMindd
 
-
-
+## Don't use my repo without star
 
 
 <p align="center">
