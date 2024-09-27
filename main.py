@@ -16,10 +16,10 @@ from pyrogram.types import Message
 from pyromod import listen
 
 import helpers.vid as helper
-from online.Config import *
-from online.helpers.button import keyboard
-from online.helpers.sudoers import *
-from online.helpers.text import *
+from CrazyMind.CrazyConfig import *
+from helpers.button import keyboard
+from helpers.sudoers import *
+from helpers.text import *
 
 from utils import get_datetime_str, create_html_file
 # ==========Logging==========#
