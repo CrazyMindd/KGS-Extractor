@@ -18,9 +18,8 @@
 
 <p align="center"><img src="https://github.com/CrazyMindd/CrazyMindd/assets/158000808/9264e6d9-77f5-46f1-bbf9-ff3db03de91b.gif" alt="Bt">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+CrazyMindd;+This+is+official+;github+account+Bro;)](https://git.io/typing-svg)
 
- 
+
 - 👋 Hi, I’m Crazy Mind
 - 👀 I’m interested in learning python
 - 💞️ I’m looking to collaborate on ...
